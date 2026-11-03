@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+demo系统/data/
+输出/*
+!输出/.gitkeep
+知识库/.bak/
+*.mp4
+*.tgz
